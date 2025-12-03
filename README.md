@@ -96,7 +96,7 @@ int main()
 ```
 # OUTPUT:
 
-![ex2](Ex2.png)
+<img width="648" height="288" alt="image" src="https://github.com/user-attachments/assets/2fa0d6c6-eca8-4851-826d-73822120fdd8" />
 
 # RESULT
 ## The lexical analyzer is implemented using lex and the output is verified.
